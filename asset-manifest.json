@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/vinay/static/css/main.31d6cfe0.css",
+    "main.js": "/vinay/static/js/main.cabbd64f.js",
+    "static/js/787.df45fcc1.chunk.js": "/vinay/static/js/787.df45fcc1.chunk.js",
+    "index.html": "/vinay/index.html",
+    "main.cabbd64f.js.map": "/vinay/static/js/main.cabbd64f.js.map",
+    "787.df45fcc1.chunk.js.map": "/vinay/static/js/787.df45fcc1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.cabbd64f.js"
+  ]
+}
