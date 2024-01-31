@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 
 import { useNavigate } from "react-router-dom";
 
-
+import "./logo.svg"
 
 
 
@@ -12,7 +12,7 @@ const SignIn = () => {
       <div>
        
         <div className="image-container">
-          <img className="image" src="#" alt="Logo" />
+          <img className="image" src= "./logo.svg" alt="Logo" />
         </div>
         <div className="container">
           <div className="signin">
